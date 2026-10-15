@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/h.uemura/CLionProjects/untitled/BootCamp2026_cpp_tasks/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++14 -fdiagnostics-color=always -o CMakeFiles\\Hello_world.dir\\Hello_world\\HelloWorld.cpp.obj -c C:\\Users\\h.uemura\\CLionProjects\\untitled\\BootCamp2026_cpp_tasks\\Hello_world\\HelloWorld.cpp",
+  "file": "C:/Users/h.uemura/CLionProjects/untitled/BootCamp2026_cpp_tasks/Hello_world/HelloWorld.cpp",
+  "output": "C:/Users/h.uemura/CLionProjects/untitled/BootCamp2026_cpp_tasks/cmake-build-debug/CMakeFiles/Hello_world.dir/Hello_world/HelloWorld.cpp.obj"
+}
+]

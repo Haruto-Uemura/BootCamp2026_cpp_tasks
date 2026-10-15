@@ -1,4 +1,4 @@
-# BootCamp2024 c++編
+# BootCamp2026 c++編
 
 [comment]: <> (## Index)
 
